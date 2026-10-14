@@ -1,0 +1,2 @@
+# 92600584013_AI_LAB
+AI LAB Exercise
